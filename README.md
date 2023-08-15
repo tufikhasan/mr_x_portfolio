@@ -8,6 +8,8 @@
 -   Role Management
 -   Client-Side Rendering (CSR) with Axios
 -   Dashboard CRUD Operations using AJAX
+-   Laravel Pagination with AJAX (Without Page Load)
+-   AJAX Search with Page Load or Button Press
 -   Conclusion
 
 ### 1. Introduction
@@ -58,7 +60,19 @@ Our dashboard allows users to perform CRUD (Create, Read, Update, Delete) operat
 -   **Update:** Edit item details and save changes asynchronously.
 -   **Delete:** Remove items from the dashboard without page refresh.
 
-### 7. Conclusion
+### 7. Laravel Pagination with AJAX (Without Page Load)
+
+We've employed AJAX to facilitate seamless pagination without the need for page reloads, offering a smoother and more engaging user experience.
+
+-   **Implementation:** Step-by-step instructions on how to achieve Laravel pagination through AJAX without any page load.
+
+### 8. AJAX Search with Page Load or Button Press
+
+The Laravel Simple Website's search functionality leverages AJAX to either load results on page load or upon a user-initiated button press.
+
+-   **Implementation:** Detailed guidelines on integrating AJAX-powered search, allowing users to either load results as the page loads or through the press of a dedicated button.
+
+### 9. Conclusion
 
 Congratulations! You've successfully set up and explored the features of the Laravel Simple Website. This documentation provides a comprehensive guide to the technologies used and the functionalities implemented in the project.
 
