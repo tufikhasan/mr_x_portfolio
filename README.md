@@ -9,7 +9,7 @@
 -   Client-Side Rendering (CSR) with Axios
 -   Dashboard CRUD Operations using AJAX
 -   Laravel Pagination with AJAX (Without Page Load)
--   AJAX Search with Page Load or Button Press
+-   AJAX Search without Page Load or Press any button
 -   Conclusion
 
 ### 1. Introduction
@@ -66,7 +66,7 @@ We've employed AJAX to facilitate seamless pagination without the need for page 
 
 -   **Implementation:** Step-by-step instructions on how to achieve Laravel pagination through AJAX without any page load.
 
-### 8. AJAX Search with Page Load or Button Press
+### 8. AJAX Search without Page Load or Press any button
 
 The Laravel Simple Website's search functionality leverages AJAX to either load results on page load or upon a user-initiated button press.
 
